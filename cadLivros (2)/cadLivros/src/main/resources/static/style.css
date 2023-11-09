@@ -42,13 +42,13 @@ resultadoPesquisa{
     display: table;
 }
 
-body{
-   background-size: cover;
-}
-
 label{
     color: rgb(255, 255, 255);
     font-size: xx-large;
+}
+
+body{
+	background-size: cover;	
 }
 
 .button {
